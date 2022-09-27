@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA0E901F28E2C711004DB1F8 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = BA0E901E28E2C711004DB1F8 /* .gitignore */; };
 		BACE519B280569BB00DBFB61 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BACE519A280569BB00DBFB61 /* AppDelegate.swift */; };
 		BACE519D280569BB00DBFB61 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BACE519C280569BB00DBFB61 /* SceneDelegate.swift */; };
 		BACE519F280569BB00DBFB61 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BACE519E280569BB00DBFB61 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BA0E901E28E2C711004DB1F8 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		BACE5197280569BB00DBFB61 /* 小H书.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "小H书.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BACE519A280569BB00DBFB61 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BACE519C280569BB00DBFB61 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +42,7 @@
 		BACE518E280569BB00DBFB61 = {
 			isa = PBXGroup;
 			children = (
+				BA0E901E28E2C711004DB1F8 /* .gitignore */,
 				BACE5199280569BB00DBFB61 /* 小H书 */,
 				BACE5198280569BB00DBFB61 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA0E901F28E2C711004DB1F8 /* .gitignore in Resources */,
 				BACE51A7280569BE00DBFB61 /* LaunchScreen.storyboard in Resources */,
 				BACE51A4280569BE00DBFB61 /* Assets.xcassets in Resources */,
 				BACE51A2280569BB00DBFB61 /* Main.storyboard in Resources */,
